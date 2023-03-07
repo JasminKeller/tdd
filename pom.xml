@@ -16,6 +16,8 @@
     <junit-jupiter.version>5.9.0</junit-jupiter.version>
     <mockito.version>4.8.0</mockito.version>
     <assertj.version>3.23.1</assertj.version>
+    <sonar.organization>jasminkeller</sonar.organization>
+    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
   </properties>
 
   <dependencyManagement>
